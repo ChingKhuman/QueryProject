@@ -10,7 +10,7 @@ const Main = () => {
       <div className="main-container">
         <div className="main-top">
           <h2> All Question</h2>
-          <Link>
+          <Link to="/add-question">
             <button>Ask Question</button>
           </Link>
         </div>

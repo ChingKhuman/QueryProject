@@ -32,11 +32,17 @@ header {
 .header-left > img {
     width:50px;
     object-fit: contain;
-    padding: 0;
+    padding: 0;    
     cursor: pointer;
-
+    
 }
 
+.imgj{
+    width: min-content;
+    object-fit: contain;
+    padding: 0;
+    cursor: pointer;
+}
 .header-left > h3 {
     font-weight: 400;
     font-size: 14px;
